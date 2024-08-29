@@ -1,4 +1,4 @@
-# Exercicios SQL utilizando:
+# ExercÍcios SQL utilizando:
 
 - **SELECT**
 - **COUNT**
